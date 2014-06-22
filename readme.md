@@ -12,9 +12,26 @@ Laravel is accessible, yet powerful, providing powerful tools needed for large, 
 
 Documentation for the entire framework can be found on the [Laravel website](http://laravel.com/docs).
 
-### Contributing To Laravel
+### Laravel-ecommerce
 
-**All issues and pull requests should be filed on the [laravel/framework](http://github.com/laravel/framework) repository.**
+Laravel-ecommerce is an ecommerce solution buillt with laravel. Custom frontend for store can be used with the built-in dashboard created having following features:
+
+* Inventory management
+* Add/edit categories
+* Add/edit subcategories
+* Editing profile
+* Adding titles for different users and privileges
+* Add/edit brands
+* Account editing
+
+### Future Plans
+* Invoice feature is under progress using [invoice-tipu](http://github.com/invoice-tipu)
+* Adding shipment features
+
+## Demo
+
+You can try demo [here](http://ecommerce.cyburl.in)
+
 
 ### License
 
